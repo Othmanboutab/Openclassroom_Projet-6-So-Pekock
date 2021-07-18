@@ -1,6 +1,5 @@
 const express = require('express');
 
-const cors = require('cors');
 
 // On importe mongoose pour pouvoir utiliser la base de données
 const mongoose = require('mongoose');
